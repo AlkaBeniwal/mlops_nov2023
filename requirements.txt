@@ -8,3 +8,5 @@ dvc
 dvc[gdrive]
 scikit-learn
 pandas
+pytest
+tox
